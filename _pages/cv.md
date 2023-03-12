@@ -12,7 +12,6 @@ redirect_from:
 A PDF copy of my CV is available [here](/files/Resume_Manasi_Kattel.pdf).
 
 ## Education
----
 
 ### Masters in Medical Imaging and Applications (MAIA) [Sep 2021 – Aug 2023]
 
@@ -23,7 +22,7 @@ University College London, London (Master's Thesis: Ongoing)
 University of Girona, Spain (Sem 3)
 University of Cassino, Italy (Sem 2)
 University of Burgundy, France (Sem 1)
----
+
 
 ### BE, Computer Engineering [Aug 2015 – Oct 2019]
 Kathmandu University, Nepal
@@ -32,8 +31,7 @@ Kathmandu University, Nepal
 
 ## Work Experience
 
----
-### Research Intern [Jul 2022 – Sep 2022]
+Rearch Intern [Jul 2022 – Sep 2022]
 CAMMA Lab, ICUBE, University of Strasbourg, France
 Surgical Visual Question Answering on large-scale laparoscopic cholecystectomy video dataset.
 
@@ -46,4 +44,3 @@ Fusemachines Inc., Nepal
 * Time Series Forecasting for a major Game publisher
   * Developed several Machine Learning based forecasting models for sales, downloadable contents’ revenue and
 active users.
----
