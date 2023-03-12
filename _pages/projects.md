@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-* Surgical Visual Question Answering on large-scale surgical video dataset || Python Jul 2022 – Mar 2023
+* Surgical Visual Question Answering on large-scale surgical video dataset \| Python Jul 2022 – Mar 2023
   * The existing datasets on Laparoscopic Cholecystectomy are used to create a VQA dataset which contains
 questions that deal with detection, counting, localization, spatial relationship and surgical action in an image of
 Cholecystectomy procedure.
@@ -15,7 +15,7 @@ question-anwer pairs.
   * Classification-based VQA model is trained on VisualBERT-based architecture.
   * Supervised by Prof. Nicolas Padoy at the CAMMA Lab, University of Strasbourg, France.
 
-* [Weakly-supervised Cell detection for Cytotoxicity Standardization](https://github.com/manasikattel/SISSI) || Python Mar 2022 – Jul 2022
+* [Weakly-supervised Cell detection for Cytotoxicity Standardization](https://github.com/manasikattel/SISSI) \| Python Mar 2022 – Jul 2022
   * Best Paper award at the Domain Adaptation and Representation Transfer Workshop, MICCAI 2022.
   * Image-level weak labels are used to perform the cell-type detection required for ISO 10993-5 standard reactivity of
 Cytotoxicity. The statistical measures of extracted cells reveal the sought reactivity.
@@ -23,14 +23,14 @@ Cytotoxicity. The statistical measures of extracted cells reveal the sought reac
 handcrafted methods along with the image examples of living, dead, and inhibited cells.
   * Supervised by Prof. Alessandro Bria and Prof. Claudio Marrocco at the University of Cassino, Italy.
 
-* [Skin lesion classification](https://github.com/manasikattel/skin-lesion-cad) || Python Sep 2022 - Jan 2023
+* [Skin lesion classification](https://github.com/manasikattel/skin-lesion-cad) \| Python Sep 2022 - Jan 2023
   * This project(also a challenge) deals with the classification of skin lesions into 1. Nevus vs. other (Binary problem) 2. Basal cell vs. Squamous cell vs. Melanoma using both classical image processing techniques and deep learning techniques. 
   * Classical image preprocessing involves hair removal. Morphological Segmentation pipeline is defined to segment the lesions. Colour, Shape, and Bag-of-words features were engineered and different machine learning classifiers were experimented with.
   * For the Deep learning challenge, RegNet and Swin Transformers were trained and tuned for skin lesion classification. Experiments conducted include several augmentation strategies, model sizes, balanced sampling, loss functions, and pretext learning with eight classes present in the binary challenge dataset.
   * Winner in the binary classification problem for both classical approach and deep learning based solution.
 
 
-* [Morphologically Consistent Eye Vessel Segmentation](https://github.com/manasikattel/Eye-Vessel-Segmentation) || Matlab Sep 2021 – Dec 2021
+* [Morphologically Consistent Eye Vessel Segmentation](https://github.com/manasikattel/Eye-Vessel-Segmentation) \| Matlab Sep 2021 – Dec 2021
   * Performed eye vessel segmentation on retinopathy images to extract vessels’ morphology which plays a vital role
 in detecting many diseases including Diabetes, Glaucoma, and Hypertension.
   * Developed a method that involved two sequential steps: (i) morphological image processing for local shape priors;
