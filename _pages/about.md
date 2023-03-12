@@ -13,9 +13,7 @@ I am a second-year Master's student doing my master's thesis in Active CT Recons
 
 Previously, I worked as a Machine Learning Engineer at [Fusemachines Nepal](https://fusemachines.com/). 
 
----
 ## Education
----
 
 ### Masters in Medical Imaging and Applications (MAIA) [Sep 2021 – Aug 2023]
 University College London, London (Master's Thesis: Ongoing) <br>
@@ -26,9 +24,7 @@ University of Burgundy, France (Sem 1) <br>
 ### BE, Computer Engineering [Aug 2015 – Oct 2019]
 Kathmandu University, Nepal
 
----
 ## Work Experience
----
 ### Research Intern [Jul 2022 – Sep 2022]
 CAMMA Lab, ICUBE, University of Strasbourg, France
 Surgical Visual Question Answering on large-scale laparoscopic cholecystectomy video dataset.
