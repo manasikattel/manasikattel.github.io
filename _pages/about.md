@@ -14,7 +14,7 @@ I am a second-year Master's student doing my master's thesis in Active CT Recons
 Previously, I worked as a Machine Learning Engineer at [Fusemachines Nepal](https://fusemachines.com/). 
 
 
-  ## Education
+## Education
 ---
 
 ### Masters in Medical Imaging and Applications (MAIA) [Sep 2021 – Aug 2023]
@@ -22,11 +22,10 @@ Previously, I worked as a Machine Learning Engineer at [Fusemachines Nepal](http
 **Major Courses** Medical Sensors; Medical Image Segmentation; Medical Image Registration; Computer Aided Diagnosis; Image Processing; Machine and Deep Learning; Statistical Learning and Data
 Mining; Introduction to Robotics; Applied Mathematics; Digital Signal Processing; Software Engineering
 
-University College London, London (Master's Thesis: Ongoing)
-University of Girona, Spain (Sem 3)
-University of Cassino, Italy (Sem 2)
-University of Burgundy, France (Sem 1)
----
+University College London, London (Master's Thesis: Ongoing) <br>
+University of Girona, Spain (Sem 3) <br>
+University of Cassino, Italy (Sem 2) <br>
+University of Burgundy, France (Sem 1) <br>
 
 ### BE, Computer Engineering [Aug 2015 – Oct 2019]
 Kathmandu University, Nepal
@@ -49,4 +48,3 @@ Fusemachines Inc., Nepal
 * Time Series Forecasting for a major Game publisher
   * Developed several Machine Learning based forecasting models for sales, downloadable contents’ revenue and
 active users.
----
