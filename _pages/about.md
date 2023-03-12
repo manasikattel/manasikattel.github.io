@@ -26,10 +26,10 @@ Kathmandu University, Nepal
 
 ## Work Experience
 ### Research Intern [Jul 2022 – Sep 2022]
-CAMMA Lab, ICUBE, University of Strasbourg, France
+CAMMA Lab, ICUBE, University of Strasbourg, France <br>
 Surgical Visual Question Answering on large-scale laparoscopic cholecystectomy video dataset.
 
 ### Machine Learning Engineer [Jun 2019 – Aug 2021]
 
-Fusemachines Inc., Nepal
+Fusemachines Inc., Nepal <br>
 Developed a deep learning model for edge detection to perform bone size estimation from x-ray. Also developed several time series forecasting models and time series forecasting python library.
