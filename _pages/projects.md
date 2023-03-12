@@ -25,7 +25,9 @@ handcrafted methods along with the image examples of living, dead, and inhibited
 
 * [Skin lesion classification](https://github.com/manasikattel/skin-lesion-cad) || Python Sep 2022 - Jan 2023
   * This project(also a challenge) deals with the classification of skin lesions into 1. Nevus vs. other (Binary problem) 2. Basal cell vs. Squamous cell vs. Melanoma using both classical image processing techniques and deep learning techniques. 
-  * Winner in the binary classification problem for both classical algorithm and deep learning based solution.
+  * Classical image preprocessing involves hair removal. Morphological Segmentation pipeline is defined to segment the lesions. Colour, Shape, and Bag-of-words features were engineered and different machine learning classifiers were experimented with.
+  * For the Deep learning challenge, RegNet and Swin Transformers were trained and tuned for skin lesion classification. Experiments conducted include several augmentation strategies, model sizes, balanced sampling, loss functions, and pretext learning with eight classes present in the binary challenge dataset.
+  * Winner in the binary classification problem for both classical approach and deep learning based solution.
 
 
 * [Morphologically Consistent Eye Vessel Segmentation](https://github.com/manasikattel/Eye-Vessel-Segmentation) || Matlab Sep 2021 – Dec 2021

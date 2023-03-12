@@ -13,7 +13,7 @@ I am a second-year Master's student doing my master's thesis in Active CT Recons
 
 Previously, I worked as a Machine Learning Engineer at [Fusemachines Nepal](https://fusemachines.com/). 
 
-
+---
 ## Education
 ---
 
@@ -32,8 +32,8 @@ Kathmandu University, Nepal
 
 **Major Courses** Advanced Calculus and Linear Algebra; Machine Learning; Artificial Intelligence; Statistics and Probability; Speech and Language Processing; Digital Signal Processing; Data Structure and Algorithms; Database Management Systems; Operating Systems; Software Engineering
 
+---
 ## Work Experience
-
 ---
 ### Research Intern [Jul 2022 – Sep 2022]
 CAMMA Lab, ICUBE, University of Strasbourg, France
