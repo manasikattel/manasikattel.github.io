@@ -11,7 +11,7 @@ redirect_from:
 
 A PDF copy of my CV is available [here](/files/Resume_Manasi_Kattel.pdf).
 
-  ## Education
+## Education
 ---
 
 ### Masters in Medical Imaging and Applications (MAIA) [Sep 2021 – Aug 2023]
