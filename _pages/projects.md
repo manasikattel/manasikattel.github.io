@@ -25,7 +25,7 @@ handcrafted methods along with the image examples of living, dead, and inhibited
   * This project(also a challenge) deals with the classification of skin lesions into 1. Nevus vs. other (Binary problem) 2. Basal cell vs. Squamous cell vs. Melanoma using both classical image processing techniques and deep learning techniques. 
   * Classical image preprocessing involves hair removal. Morphological Segmentation pipeline is defined to segment the lesions. Colour, Shape, and Bag-of-words features were engineered and different machine learning classifiers were experimented with.
   * For the Deep learning challenge, RegNet and Swin Transformers were trained and tuned for skin lesion classification. Experiments conducted include several augmentation strategies, model sizes, balanced sampling, loss functions, and pretext learning with eight classes present in the binary challenge dataset.
-  * Winner in the binary classification problem for both classical approach and deep learning based solution.
+  * Winner in the binary classification problem for both classical approach and deep learning based solution for the course Computer Aided Diagnosis.
   * Supervised by Prof. Xavier Lladó Bardera at the University of Girona, Spain
 
 * **Brain Tissue Segmentation on IBSR dataset** \| [Code](https://github.com/manasikattel/misa) \| Sep 2022 -- Jan 2023
@@ -36,7 +36,7 @@ handcrafted methods along with the image examples of living, dead, and inhibited
 
 * **Chest CT Registration between inhale and exhale breathing phases** \|  [Code](https://github.com/manasikattel/chest_ct_registration) \| Sep 2022 -- Jan 2023
   * Experimented with different aspects of the registration framework: similarity metric, geometric transformation, interpolation and resolutions, and the impact of preprocessing and segmentation.
- * Supervised by Prof. Robert Martí at the University of Girona, Spain.
+  * Supervised by Prof. Robert Martí at the University of Girona, Spain.
 
 
 * **Morphologically Consistent Eye Vessel Segmentation** \| [Code](https://github.com/manasikattel/Eye-Vessel-Segmentation) \| Sep 2021 – Dec 2021
