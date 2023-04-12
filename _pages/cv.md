@@ -32,8 +32,8 @@ Kathmandu University, Nepal
 ## Work Experience
 
 Rearch Intern [Jul 2022 – Sep 2022]
-CAMMA Lab, ICUBE, University of Strasbourg, France
-Surgical Visual Question Answering on large-scale laparoscopic cholecystectomy video dataset.
+* CAMMA Lab, ICUBE, University of Strasbourg, France
+* Surgical Visual Question Answering on large-scale laparoscopic cholecystectomy video dataset.
 
 ### Machine Learning Engineer [Jun 2019 – Aug 2021]
 
