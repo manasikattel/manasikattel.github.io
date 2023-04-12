@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="https://manasikattel.my.canva.site/random" width="100%" height="800" frameborder="no" border="0" marginwidth="0"
+<iframe src="https://manasikattel.my.canva.site/home" width="100%" height="800" frameborder="no" border="0" marginwidth="0"
     marginheight="0"></iframe>
