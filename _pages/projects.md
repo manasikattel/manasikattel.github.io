@@ -28,14 +28,14 @@ handcrafted methods along with the image examples of living, dead, and inhibited
   * Winner in the binary classification problem for both classical approach and deep learning based solution.
   * Supervised by Prof. Xavier Lladó Bardera at the University of Girona, Spain
 
-* **Brain Tissue Segmentation on IBSR dataset** \| [Code](https://github.com/manasikattel/misa)\| Sep 2022 -- Jan 2023
-* Data augmentation and registration driven experiments with an ensemble-based nn-UNet model to segment tissues in Brain MRI images.
-* A mix of original, preprocessed, and registered images are utilized to incorporate global data variance and spatial information of the three tissue models in the training set. 
-* Ranked second on a private leaderboard for course Medical Image Segmentation.
-* Supervised by Prof. Arnau Oliver at the University of Girona, Spain.
+* **Brain Tissue Segmentation on IBSR dataset** \| [Code](https://github.com/manasikattel/misa) \| Sep 2022 -- Jan 2023
+  * Data augmentation and registration driven experiments with an ensemble-based nn-UNet model to segment tissues in Brain MRI images.
+  * A mix of original, preprocessed, and registered images are utilized to incorporate global data variance and spatial information of the three tissue models in the training set. 
+  * Ranked second on a private leaderboard for course Medical Image Segmentation.
+  * Supervised by Prof. Arnau Oliver at the University of Girona, Spain.
 
 * **Chest CT Registration between inhale and exhale breathing phases** \|  [Code](https://github.com/manasikattel/chest_ct_registration) \| Sep 2022 -- Jan 2023
-* Experimented with different aspects of the registration framework: similarity metric, geometric transformation, interpolation and resolutions, and the impact of preprocessing and segmentation.
+  * Experimented with different aspects of the registration framework: similarity metric, geometric transformation, interpolation and resolutions, and the impact of preprocessing and segmentation.
  * Supervised by Prof. Robert Martí at the University of Girona, Spain.
 
 
