@@ -18,6 +18,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Poetry"
+    url: /poetry_archive/
 
