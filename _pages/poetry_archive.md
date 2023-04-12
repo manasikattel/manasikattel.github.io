@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "poetry_archive"
+title: "Archives"
 permalink: /poetry_archive/
 author_profile: true
 redirect_from:
