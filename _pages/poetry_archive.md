@@ -2,7 +2,7 @@
 layout: archive
 title: "Archives"
 permalink: /poetry_archive/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
