@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hii! Welcome to my chaotic little archive of life experiences and works.
-I am a first year PhD candidate in the team ([Epione](https://team.inria.fr/epione/en/)) at Inria Sophia-Antipolis, France. I am working on multi-modal image registration specifically MRI and Ultrasound Images.
+Hii! I am a third year PhD candidate in the team ([Epione](https://team.inria.fr/epione/en/)) at Inria Sophia-Antipolis, France. I am working on multi-modal image registration specifically MRI and Ultrasound Images.
 
-My master's degree is in the Application of AI in Medical Imaging ([MAIA](https://maiamaster.udg.edu/)) funded by the European Union and coordinated by the University of Girona, Spain. During this program, I lived, studied and worked in 4 different countries: France, Italy, Spain and the United Kingdom. I did my master's thesis in Active CT Reconstruction at [WEISS, UCL](https://www.ucl.ac.uk/interventional-surgical-sciences).
+I completed my master's degree in the Application of AI in Medical Imaging ([MAIA](https://maiamaster.udg.edu/)), a European Union-funded program coordinated by the University of Girona, Spain. During the program, I lived, studied, and worked across four countries: France, Italy, Spain, and the United Kingdom. My master's thesis focused on Active CT Reconstruction at [WEISS, UCL](https://www.ucl.ac.uk/interventional-surgical-sciences).
 
 
  I am interested in Machine Learning and Computer Vision and in the recent years, I have been studying and developing projects on their application in Medical Imaging Technology. 
