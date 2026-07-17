@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Advancing surgical VQA with scene graph knowledge"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/advancing-surgical-vqa-with-scene-graph-knowledge
+excerpt: 'Scene-graph-based reasoning for surgical visual question answering.'
+date: 2024-07-01
+venue: 'International Journal of Computer Assisted Radiology and Surgery'
+paperurl: 'https://link.springer.com/article/10.1007/s11548-024-03141-y'
+citation: 'K Yuan, M Kattel, JL Lavanchy, N Navab, V Srivastav, N Padoy. (2024). &quot;Advancing surgical vqa with scene graph knowledge.&quot; <i>International Journal of Computer Assisted Radiology and Surgery</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Scene-graph-based reasoning for surgical visual question answering.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: K Yuan, M Kattel, JL Lavanchy, N Navab, V Srivastav, N Padoy. (2024). "Advancing surgical vqa with scene graph knowledge." <i>International Journal of Computer Assisted Radiology and Surgery</i>.
